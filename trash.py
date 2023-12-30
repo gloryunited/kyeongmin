@@ -1,1 +1,2 @@
-print("fuck you1")
+a = "kyeongmin's favorite food is perl"
+print(a)
